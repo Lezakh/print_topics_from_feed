@@ -1,2 +1,2 @@
-# print_topics_from_feed
-Print topics on a define area from a located feed
+# Print topics from specific feed
+Print topics on a define area from specific feed
